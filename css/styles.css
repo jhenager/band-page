@@ -2,6 +2,9 @@ img {
   float: left;
   width: 200px;
   height: 150px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .sidebar {
@@ -11,4 +14,12 @@ img {
   border: 10px solid rgb(57, 226, 238);
   padding: 10px;
   margin: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.column {
+  width: 300px;
+  float: left;
+  background-color: blue;
 }
