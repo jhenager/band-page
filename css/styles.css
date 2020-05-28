@@ -1,9 +1,14 @@
 img {
   float: left;
+  width: 200px;
+  height: 150px;
 }
 
 .sidebar {
   width: 30%;
   float: right;
   background-color: magenta;
+  border: 10px solid rgb(57, 226, 238);
+  padding: 10px;
+  margin: 10px;
 }
